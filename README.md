@@ -16,12 +16,20 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li><strong>Flownet for Workout Keyframe Identification:</strong> Utilized PyTorch for the development of a system that analyzes workout videos to provide feedback on exercise execution. The project involved custom dataset creation and innovative algorithm design for keyframe identification and dynamic video analysis.</li>
-  <li><strong>Pippov Video Processing:</strong> A comprehensive video processing tool leveraging Python, GPT models, and speech-to-text technologies for video editing and content generation. Skills in API integration, Python programming, and machine learning were essential for this project.</li>
-  <li><strong>Pepper Humanoid Assistant Development:</strong> Worked with PDDL (Planning Domain Definition Language) and Python to program a humanoid robot for museum tours, showcasing skills in human-machine interaction and robotic planning.</li>
-  <li><strong>CNN-Transformer for Violence Detection:</strong> Developed a novel architecture using ConvMixer and transformers in PyTorch Lightning, demonstrating an advanced understanding of deep learning models for real-time violence detection.</li>
-  <li><strong>AlphaZero for Othello:</strong> Implemented from scratch using PyTorch Lightning, optimized for multi-GPU training. This project highlights my skills in AI game theory, deep learning optimization, and software engineering.</li>
-  <li><strong>ROS Arduino Radar System:</strong> Programmed in C++ and ROS, this project involved the development of a radar system, showcasing my abilities in robotics programming and sensor integration.</li>
-  <li><strong>Generalized ConvMixer Architecture:</strong> Extended ConvMixer for object segmentation and detection using PyTorch Lightning. This involved innovative architecture design and optimization for deep learning models.</li>
-  <li><strong>Attention Economy Narrative Classifier:</strong> Developed an LSTM-based classifier in Python to analyze narrative tension in literature. This project required skills in natural language processing, sentiment analysis, and deep learning.</li>
+  <li><strong>Flownet for Workout Keyframe Identification (Computer Vision):</strong> Developed with <em>PyTorch</em> and <em>OpenCV</em>. Skills in video processing, deep learning, and dataset creation were enhanced. <a href="https://github.com/andrea/flownet-workout">Project Link</a></li>
+  
+  <li><strong>Pippov Video Processing (NLP/Computer Vision):</strong> Utilized <em>Python</em>, <em>Google Cloud Speech-to-Text</em>, and <em>OpenAI's GPT</em> for video content analysis. Skills in API usage, video editing, and text processing were key. <a href="https://github.com/andrea/pippov-video-processing">Project Link</a></li>
+  
+  <li><strong>Pepper Humanoid Assistant Development (Robotics/AI):</strong> Implemented with <em>Python</em> and <em>PDDL</em> for robotic planning. Learned about humanoid robot interaction, planning algorithms, and Python programming. <a href="https://github.com/andrea/pepper-humanoid-assistant">Project Link</a></li>
+  
+  <li><strong>CNN-Transformer for Violence Detection (Computer Vision):</strong> Built using <em>PyTorch Lightning</em> and <em>ConvMixer</em>. Advanced deep learning model design and implementation skills were applied. <a href="https://github.com/andrea/cnn-transformer-violence-detection">Project Link</a></li>
+  
+  <li><strong>AlphaZero for Othello (AI/Game Theory):</strong> Created with <em>PyTorch Lightning</em>. Focused on reinforcement learning, multi-GPU training, and AI strategy development. <a href="https://github.com/andrea/alphazero-othello">Project Link</a></li>
+  
+  <li><strong>ROS Arduino Radar System (Robotics):</strong> Programmed in <em>C++</em> and <em>ROS</em>. Skills in sensor integration, real-time data processing, and robotics programming were developed. <a href="https://github.com/andrea/ros-arduino-radar">Project Link</a></li>
+  
+  <li><strong>Generalized ConvMixer Architecture (Computer Vision):</strong> Utilized <em>PyTorch Lightning</em> and <em>ConvMixer</em>. Experience gained in deep learning for object detection and segmentation. <a href="https://github.com/andrea/generalized-convmixer">Project Link</a></li>
+  
+<li><strong>Tension Narrative Classifier (NLP):</strong> A Python-based NLP tool designed for rapid classification of stories into engaging or dull categories by analyzing their tension balance. It aims to be language and style-agnostic, capable of efficiently processing large text volumes. This tool leverages AI to evaluate narrative arcs, identifying optimal tension fluctuations that maintain reader interest without causing fatigue, a critical aspect underscored by literary analysis. Its innovative approach allows for quick, accurate assessments of narrative quality, focusing solely on emotional arcs.</li>
+
 </ul>
