@@ -48,7 +48,11 @@ Results: After a single day of intensive training on multiple GPUs, the system a
   
   <li><strong>ROS Arduino Radar System (Robotics):</strong> Programmed in <em>C++</em> and <em>ROS</em>. Skills in sensor integration, real-time data processing, and robotics programming were developed. <a href="https://github.com/AlfaranoAndrea/Radarino">Project Link</a></li>
   
-  <li><strong>Generalized ConvMixer Architecture (Computer Vision):</strong> Utilized <em>PyTorch Lightning</em> and <em>ConvMixer</em>. Experience gained in deep learning for object detection and segmentation. <a href="https://github.com/AlfaranoAndrea/ConvMixer_extensions-">Project Link</a></li>
+  <li><strong>Generalized ConvMixer Architecture (Computer Vision):</strong> Utilized <em>PyTorch Lightning</em> and <em>ConvMixer</em>. Task: The project aimed to adapt and extend the ConvMixer architecture for applications in object segmentation and detection as part of a coursework assignment in Neural Networks, leveraging PyTorch Lightning for implementation.
+
+Action: To address the challenges in object segmentation, the ConvMixer architecture was integrated as the backbone within a YOLO head framework, facilitating efficient feature extraction. For segmentation tasks, the project innovated by stacking multiple ConvMixer blocks within a Unet architecture. This design choice was strategic, aiming to enhance model performance while maintaining a lean parameter footprint.
+
+Results: The novel integration of ConvMixer into these domains yielded significant advancements. In object segmentation, the modified Unet architecture with ConvMixer blocks outperformed the baseline model by 10%, simultaneously achieving a reduction in model complexity with 10% fewer parameters. This demonstrates the project's success in not only transferring the ConvMixer architecture to new applications but also in optimizing model efficiency and effectiveness in complex tasks such as object segmentation and detection. <a href="https://github.com/AlfaranoAndrea/ConvMixer_extensions-">Project Link</a></li>
   
 <li><strong>Tension Narrative Classifier (NLP):</strong> Task: Develop an AI classifier to analyze and predict the success of narratives based on their emotional arcs within the context of the "attention economy."
 
