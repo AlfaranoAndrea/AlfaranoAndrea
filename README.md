@@ -25,7 +25,11 @@ Action: The process begins with the local execution of state-of-the-art Whisper 
 Results: The outcome of the project is a highly functional system that allows users to efficiently create content snippets from longer video segments. By leveraging cutting-edge speech-to-text and text summarization technologies, the system not only automates the content creation process but also enables users to tailor the output to their specific content needs. The provision of an editable OpenShot file further enhances the utility of the system, offering users flexibility in final content editing and customization. <a href="https://github.com/AlfaranoAndrea/pippov">Project Link</a></li>
   
 
-  
+ <li><strong>Tension Narrative Classifier (NLP):</strong>  Develop an AI classifier to analyze and predict the success of narratives based on their emotional arcs within the context of the "attention economy."
+
+Action: The project involved constructing a classifier utilizing advanced artificial intelligence techniques, specifically focusing on sentiment analysis and machine learning models like LSTM (Long Short-Term Memory). This process entailed a comprehensive data collection phase, where novels were sourced from Project Gutenberg and Archive of Our Own (AO3), followed by preprocessing steps including reading PDFs, performing sentiment analysis, calculating moving average means, and saving the data as numpy arrays. The training phase involved normalizing the batches using MinMax normalization and training a simple LSTM model.
+
+Results: The classifier aims to efficiently sift through the vast amount of content available in today's "attention economy," where an overabundance of information competes for limited attention spans. By identifying narratives that maintain an optimal balance of tension, the project seeks to enhance the selection process, enabling readers to maximize the value of their time by focusing on engaging and intriguing narratives. This approach addresses the challenge of finding narratives that strike a perfect balance of tension, avoiding both the dullness of tension-lacking stories and the overwhelming nature of excessively tense narratives. <a href="https://github.com/AlfaranoAndrea/nuance">Project Link</a></li> 
 
   
   <li><strong>AlphaZero for Othello (RL):</strong> Created with <em>PyTorch Lightning</em>. 
@@ -41,11 +45,7 @@ Action: To address the challenges in object segmentation, the ConvMixer architec
 
 Results: The novel integration of ConvMixer into these domains yielded significant advancements. In object segmentation, the modified Unet architecture with ConvMixer blocks outperformed the baseline model by 10%, simultaneously achieving a reduction in model complexity with 10% fewer parameters. This demonstrates the project's success in not only transferring the ConvMixer architecture to new applications but also in optimizing model efficiency and effectiveness in complex tasks such as object segmentation and detection. <a href="https://github.com/AlfaranoAndrea/ConvMixer_extensions-">Project Link</a></li>
   
-<li><strong>Tension Narrative Classifier (NLP):</strong>  Develop an AI classifier to analyze and predict the success of narratives based on their emotional arcs within the context of the "attention economy."
 
-Action: The project involved constructing a classifier utilizing advanced artificial intelligence techniques, specifically focusing on sentiment analysis and machine learning models like LSTM (Long Short-Term Memory). This process entailed a comprehensive data collection phase, where novels were sourced from Project Gutenberg and Archive of Our Own (AO3), followed by preprocessing steps including reading PDFs, performing sentiment analysis, calculating moving average means, and saving the data as numpy arrays. The training phase involved normalizing the batches using MinMax normalization and training a simple LSTM model.
-
-Results: The classifier aims to efficiently sift through the vast amount of content available in today's "attention economy," where an overabundance of information competes for limited attention spans. By identifying narratives that maintain an optimal balance of tension, the project seeks to enhance the selection process, enabling readers to maximize the value of their time by focusing on engaging and intriguing narratives. This approach addresses the challenge of finding narratives that strike a perfect balance of tension, avoiding both the dullness of tension-lacking stories and the overwhelming nature of excessively tense narratives. <a href="https://github.com/AlfaranoAndrea/nuance">Project Link</a></li>
 
   <li><strong>Pepper Humanoid Assistant Development (Robotics/AI):</strong> Implemented with <em>Python</em> and <em>PDDL</em> for robotic planning. Learned about humanoid robot interaction, planning algorithms, and Python programming. <a href="https://github.com/AlfaranoAndrea/planner-for-relevant-policies">Project Link</a></li>
 
