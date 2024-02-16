@@ -28,7 +28,7 @@
   
   <li><strong>ROS Arduino Radar System (Robotics):</strong> Programmed in <em>C++</em> and <em>ROS</em>. Skills in sensor integration, real-time data processing, and robotics programming were developed. <a href="https://github.com/AlfaranoAndrea/Radarino">Project Link</a></li>
   
-  <li><strong>Generalized ConvMixer Architecture (Computer Vision):</strong> Utilized <em>PyTorch Lightning</em> and <em>ConvMixer</em>. Experience gained in deep learning for object detection and segmentation. <a href="https://github.com/AlfaranoAndrea/ConvMixer_extensions">Project Link</a></li>
+  <li><strong>Generalized ConvMixer Architecture (Computer Vision):</strong> Utilized <em>PyTorch Lightning</em> and <em>ConvMixer</em>. Experience gained in deep learning for object detection and segmentation. <a href="https://github.com/AlfaranoAndrea/ConvMixer_extensions-">Project Link</a></li>
   
 <li><strong>Tension Narrative Classifier (NLP):</strong> A Python-based NLP tool designed for rapid classification of stories into engaging or dull categories by analyzing their tension balance. It aims to be language and style-agnostic, capable of efficiently processing large text volumes. This tool leverages AI to evaluate narrative arcs, identifying optimal tension fluctuations that maintain reader interest without causing fatigue, a critical aspect underscored by literary analysis. Its innovative approach allows for quick, accurate assessments of narrative quality, focusing solely on emotional arcs. <a href="https://github.com/AlfaranoAndrea/nuance">Project Link</a></li>
 
