@@ -28,7 +28,7 @@ Results: The outcome of the project is a highly functional system that allows us
   
 
   
-  <li><strong>AlphaZero for Othello (AI/Game Theory):</strong> Created with <em>PyTorch Lightning</em>. 
+  <li><strong>AlphaZero for Othello (RL):</strong> Created with <em>PyTorch Lightning</em>. 
  The project aimed to create a from-scratch implementation of the AlphaZero algorithm, specifically tailored for the game of Othello, using PyTorch Lightning to facilitate optimization for multi-GPU training. The core objective was to leverage the capabilities of AlphaZero's self-play reinforcement learning framework to develop a system capable of outperforming novice human players in Othello.
 
 Action: The development process involved constructing the AlphaZero architecture within the PyTorch Lightning framework to harness its efficient multi-GPU training capabilities. This setup allowed for rapid iteration and scaling of the training process. The system underwent extensive self-play training sessions, where it continually learned and improved from playing against itself, adjusting its strategies based on outcomes and simulated future moves.
