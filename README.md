@@ -16,7 +16,7 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li><strong>Flownet for Workout Keyframe Identification (Computer Vision):</strong> Developed with <em>PyTorch</em> and <em>OpenCV</em>. Skills in video processing, deep learning, and dataset creation were enhanced. <a href="https://github.com/andrea/flownet-workout">Project Link</a></li>
+  <li><strong>Flownet for Workout Keyframe Identification (Computer Vision):</strong> Developed with <em>PyTorch</em> and <em>OpenCV</em>. Skills in video processing, deep learning, and dataset creation were enhanced. <a href="https://github.com/andrea/flownet-workout">Project Link</a>https://github.com/AlfaranoAndrea/workuout_keyframe</li>
   
   <li><strong>Pippov Video Processing (NLP/Computer Vision):</strong> Utilized <em>Python</em>, <em>Google Cloud Speech-to-Text</em>, and <em>OpenAI's GPT</em> for video content analysis. Skills in API usage, video editing, and text processing were key. <a href="https://github.com/andrea/pippov-video-processing">Project Link</a></li>
   
