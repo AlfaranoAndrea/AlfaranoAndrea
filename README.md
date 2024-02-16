@@ -16,11 +16,11 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li><strong>Flownet for Workout Keyframe Identification (Computer Vision):</strong> Developed with <em>PyTorch</em> and <em>OpenCV</em>. Skills in video processing, deep learning, and dataset creation were enhanced. <a href="https://github.com/andrea/flownet-workout">Project Link</a>https://github.com/AlfaranoAndrea/workuout_keyframe</li>
+  <li><strong>Flownet for Workout Keyframe Identification (Computer Vision):</strong> Developed with <em>PyTorch</em> and <em>OpenCV</em>. Skills in video processing, deep learning, and dataset creation were enhanced. <a href="https://github.com/AlfaranoAndrea/workuout_keyframe">Project Link</a></li>
   
-  <li><strong>Pippov Video Processing (NLP/Computer Vision):</strong> Utilized <em>Python</em>, <em>Google Cloud Speech-to-Text</em>, and <em>OpenAI's GPT</em> for video content analysis. Skills in API usage, video editing, and text processing were key. <a href="https://github.com/andrea/pippov-video-processing">Project Link</a></li>
+  <li><strong>Pippov Video Processing (NLP/Computer Vision):</strong> Utilized <em>Python</em>, <em>Google Cloud Speech-to-Text</em>, and <em>OpenAI's GPT</em> for video content analysis. Skills in API usage, video editing, and text processing were key. <a href="https://github.com/AlfaranoAndrea/pippov">Project Link</a></li>
   
-  <li><strong>Pepper Humanoid Assistant Development (Robotics/AI):</strong> Implemented with <em>Python</em> and <em>PDDL</em> for robotic planning. Learned about humanoid robot interaction, planning algorithms, and Python programming. <a href="https://github.com/andrea/pepper-humanoid-assistant">Project Link</a></li>
+  <li><strong>Pepper Humanoid Assistant Development (Robotics/AI):</strong> Implemented with <em>Python</em> and <em>PDDL</em> for robotic planning. Learned about humanoid robot interaction, planning algorithms, and Python programming. <a href="[https://github.com/andrea/pepper-humanoid-assistant](https://github.com/AlfaranoAndrea/planner-for-relevant-policies)">Project Link</a></li>
   
   <li><strong>CNN-Transformer for Violence Detection (Computer Vision):</strong> Built using <em>PyTorch Lightning</em> and <em>ConvMixer</em>. Advanced deep learning model design and implementation skills were applied. <a href="https://github.com/andrea/cnn-transformer-violence-detection">Project Link</a></li>
   
