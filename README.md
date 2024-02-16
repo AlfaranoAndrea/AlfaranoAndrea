@@ -46,8 +46,6 @@ Action: The development process involved constructing the AlphaZero architecture
 
 Results: After a single day of intensive training on multiple GPUs, the system achieved a significant milestone by outperforming a novice human player in Othello. This accomplishment not only highlights the efficiency and effectiveness of the implemented AlphaZero architecture in learning complex game strategies but also demonstrates the potential of PyTorch Lightning to expedite the training process of sophisticated AI models through optimal hardware utilization. <a href="https://github.com/AlfaranoAndrea/Othello_AlphaZero_lightning">Project Link</a></li>
   
-  <li><strong>ROS Arduino Radar System (Robotics):</strong> Programmed in <em>C++</em> and <em>ROS</em>. Skills in sensor integration, real-time data processing, and robotics programming were developed. <a href="https://github.com/AlfaranoAndrea/Radarino">Project Link</a></li>
-  
   <li><strong>Generalized ConvMixer Architecture (Computer Vision):</strong> Utilized <em>PyTorch Lightning</em> and <em>ConvMixer</em>.  The project aimed to adapt and extend the ConvMixer architecture for applications in object segmentation and detection as part of a coursework assignment in Neural Networks, leveraging PyTorch Lightning for implementation.
 
 Action: To address the challenges in object segmentation, the ConvMixer architecture was integrated as the backbone within a YOLO head framework, facilitating efficient feature extraction. For segmentation tasks, the project innovated by stacking multiple ConvMixer blocks within a Unet architecture. This design choice was strategic, aiming to enhance model performance while maintaining a lean parameter footprint.
@@ -61,4 +59,9 @@ Action: The project involved constructing a classifier utilizing advanced artifi
 Results: The classifier aims to efficiently sift through the vast amount of content available in today's "attention economy," where an overabundance of information competes for limited attention spans. By identifying narratives that maintain an optimal balance of tension, the project seeks to enhance the selection process, enabling readers to maximize the value of their time by focusing on engaging and intriguing narratives. This approach addresses the challenge of finding narratives that strike a perfect balance of tension, avoiding both the dullness of tension-lacking stories and the overwhelming nature of excessively tense narratives. <a href="https://github.com/AlfaranoAndrea/nuance">Project Link</a></li>
 
   <li><strong>Pepper Humanoid Assistant Development (Robotics/AI):</strong> Implemented with <em>Python</em> and <em>PDDL</em> for robotic planning. Learned about humanoid robot interaction, planning algorithms, and Python programming. <a href="https://github.com/AlfaranoAndrea/planner-for-relevant-policies">Project Link</a></li>
+
+<li><strong>ROS Arduino Radar System (Robotics):</strong> Programmed in <em>C++</em> and <em>ROS</em>. Skills in sensor integration, real-time data processing, and robotics programming were developed. <a href="https://github.com/AlfaranoAndrea/Radarino">Project Link</a></li>
+  
 </ul>
+
+
